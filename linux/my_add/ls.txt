@@ -1,0 +1,15 @@
+total 152
+-rw-r--r--  1 paweng  staff     40 May 17 08:58 add.cpp
+-rw-r--r--  1 paweng  staff     56 May 17 08:57 add.h
+-rw-r--r--  1 paweng  staff    620 May 17 09:02 add.o
+-rw-r--r--@ 1 paweng  staff      4 May 15 13:59 input.txt
+-rw-r--r--  1 paweng  staff      0 May 17 11:03 ls.txt
+-rw-r--r--@ 1 paweng  staff    188 May 15 13:59 m1.cpp
+-rw-r--r--  1 paweng  staff    208 May 17 09:02 makefile
+-rwxr-xr-x  1 paweng  staff  16120 May 17 00:41 my_add
+drwxr-xr-x  3 paweng  staff     96 May 16 23:25 my_add.dSYM
+-rw-r--r--@ 1 paweng  staff    188 May 15 13:59 my_add.txt
+-rw-r--r--@ 1 paweng  staff     42 May 15 13:59 output.txt
+-rwxr-xr-x  1 paweng  staff  16160 May 17 09:02 run_add
+-rw-r--r--@ 1 paweng  staff    215 May 17 08:55 run_add.cpp
+-rw-r--r--  1 paweng  staff   7020 May 17 09:02 run_add.o
