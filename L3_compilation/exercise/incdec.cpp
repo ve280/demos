@@ -1,4 +1,4 @@
-#include "inc.h"
+#include "incdec.h"
 
 int inc(int n){
     if (n==MAX){
