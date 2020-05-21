@@ -41,6 +41,7 @@ int main(){
         ls.array[i] = i;
         array[i] = i;
     }
+    ls.p = array;
 
     // Variables to measure time
     struct timespec start, finish;
