@@ -34,8 +34,8 @@ int main(){
     cout << fp(1, 2) << endl;
     cout << fpArray[0](2, 3) << endl;
     cout << fpArray[1](3, 4) << endl;
-    //fp++;
-    //fpArray++;
+    //fp++; // doesn't make sense; what does it point to after inc? 
+    //fpArray++; // arrays are rvalues
     fpp++;
     cout << (*fpp)(4, 5) << endl;
     cout << (void *)fp << endl;
