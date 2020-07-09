@@ -11,13 +11,12 @@ int main(){
     s.insert(5);
     s.print();
 
-//    foo(s);
-//    s.print();
+    foo(s);
 
-    {
-        IntSet x;
-        x = s;
-    }
+//    {
+//        IntSet x;
+//        x = s;
+//    }
     s.print();
 
     return 0;

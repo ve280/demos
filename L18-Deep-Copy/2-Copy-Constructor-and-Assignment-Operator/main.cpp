@@ -7,9 +7,9 @@ void foo(IntSet x){
 }
 
 int main() {
-
     IntSet s(10);
     s.insert(5);
+    s.print();
 
     foo(s);
     s.query(5);

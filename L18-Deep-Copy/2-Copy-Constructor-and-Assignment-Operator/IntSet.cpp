@@ -19,6 +19,7 @@ IntSet& IntSet::operator= (const IntSet &is){
 }
 
 IntSet::~IntSet(){
+    cout << "Destructor\n";
     delete[] elts;
 }
 

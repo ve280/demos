@@ -28,7 +28,7 @@ public:
 
     ~IntSet(); // Destroy this IntSet
 
-void insert(int v);
+    void insert(int v);
     // MODIFIES: this
     // EFFECTS: this = this + {v} if room, 
     //          throws int sizeElts otherwise.
