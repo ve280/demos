@@ -14,4 +14,13 @@ int main(){
    std::cout << "short size: " << ssize << std::endl;
    int isize = v.size();
    std::cout << "int size: " << isize << std::endl;
+
+   for(int i=0; i<isize; i++){
+      v.pop_back();
+   }
+   v.pop_back();
+   std::cout << v[0] << std::endl;
+
+   isize = v.size();
+   std::cout << "int size: " << isize << std::endl;
 }
